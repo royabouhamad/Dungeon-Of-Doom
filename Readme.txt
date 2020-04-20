@@ -4,8 +4,7 @@ Hello and welcome to the Dungeon of Doom Game!!
 Installation
 --------------
 
-To install the game, enter the 'Game' directory in terminal and run 'javac GameLogic.java', 
-followed by 'java GameLogic' to run. New maps can be created as '.txt' files. Map file structure can be seen below.
+To install the game, enter the 'Game' directory in terminal and run 'javac GameLogic.java', followed by 'java GameLogic' to run. New maps can be created as '.txt' files. Map file structure can be seen below.
 
 --------------
 Maps
